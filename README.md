@@ -1,4 +1,4 @@
-# GET_Public_Site
+# GET Website Public Code
 
 A redacted version of the GET Equity Group website.
 
