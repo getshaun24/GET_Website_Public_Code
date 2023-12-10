@@ -1,6 +1,6 @@
 # GET Website Public Code
 
-A redacted version of the GET Equity Group website.
+A redacted version of the GET Equity Partners website.
 
 https://thisisget.com/
 
